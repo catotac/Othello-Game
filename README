@@ -1,0 +1,19 @@
+	Othello Game
++================================
+-> There are four programs in the folder
+	1) PlayOthello.java
+	2) Node.java
+	3) OthelloBoard.java
+	4) AlphaBetaPruning.java
+-> Results files
+	1) results_depthof2.txt - Depth = 2 
+	2) results_depthof3.txt - Depth = 3
+	3) compare the results from different depths and evaluation fucntions.
+-> Compilation Steps
+	1) javac OthelloBoard.java
+	2) javac Node.java
+	3) javac AlphaBetaPruning.java
+	4) javac PlayOthello.java
+-> Run Simulation of Game
+	java PlayOthello
+	 

@@ -1,0 +1,6 @@
+The results of running the alpha-beta pruning at different depth search and evaluation function results in the following outputs:
+
+	1) Depth = 2, Scores: user:20 agent:44
+	2) Depth = 3, Scores: user:8 agent:26
+
+As can be seen the AI designed based on alpha-beta pruning learns faster for greater depth size. 
